@@ -1,6 +1,6 @@
 # Learning Materials on R, Python and Julia
 
-====
+
 
 ## Table of Contents
 1. [Python](#python)
@@ -9,8 +9,8 @@
     2.2 write R packages
 3. [Julia](#julia)
 
+
 ## 1. Python<a name="python"></a>
-====
 
 ## 2. R<a name="r"></a>
 #### 2.1. Style guide 
@@ -23,6 +23,5 @@
 [Another detailed guide](http://stat545.com/packages04_foofactors-package-01.html)*
 
 
-====
 ## 3. Julia<a name="julia"></a>
 
