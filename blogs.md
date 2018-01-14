@@ -13,4 +13,6 @@ https://research.googleblog.com/2018/01/the-google-brain-team-looking-back-on.ht
 http://www.wildml.com/
 
 ----
-## NLP<a name="nlp"><a>
+## NLP, RNN, Tensorflow<a name="nlp"><a>
+
+- Learning Reinforcement Learning (with Code, Exercises and Solutions)[http://www.wildml.com/2016/10/learning-reinforcement-learning/]
