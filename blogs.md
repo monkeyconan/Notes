@@ -12,7 +12,12 @@ https://research.googleblog.com/2018/01/the-google-brain-team-looking-back-on.ht
 #### wildml
 http://www.wildml.com/
 
+#### adventures ML
+https://github.com/adventuresinML/adventures-in-ml-code
+
 ----
 ## NLP, RNN, Tensorflow<a name="nlp"><a>
 
 - [Learning Reinforcement Learning (with Code, Exercises and Solutions)](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
+
+- RNN and LSTM in Tensorflow([tutorial](http://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/))
