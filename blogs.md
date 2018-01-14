@@ -15,4 +15,4 @@ http://www.wildml.com/
 ----
 ## NLP, RNN, Tensorflow<a name="nlp"><a>
 
-- Learning Reinforcement Learning (with Code, Exercises and Solutions)[http://www.wildml.com/2016/10/learning-reinforcement-learning/]
+- [Learning Reinforcement Learning (with Code, Exercises and Solutions)](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
