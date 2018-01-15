@@ -20,4 +20,7 @@ https://github.com/adventuresinML/adventures-in-ml-code
 
 - [Learning Reinforcement Learning (with Code, Exercises and Solutions)](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 
+### RNN, LSTM
 - RNN and LSTM in Tensorflow([tutorial](http://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/), [Github](https://github.com/adventuresinML/adventures-in-ml-code))
+
+- RNN tutorial part 1 from [wildml](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/): 
