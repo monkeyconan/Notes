@@ -26,6 +26,7 @@ https://github.com/adventuresinML/adventures-in-ml-code
 
 - RNN tutorial part 1 from [wildml](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/): 
 
+----
 ### Stan<a name="stan"><a>
 - [Stan website](http://mc-stan.org/): contains documentation and use cases.
 - Michael Betancourt's [Github](https://betanalpha.github.io/resources/): instructor from the Stan group, Harvard workshop instructor
