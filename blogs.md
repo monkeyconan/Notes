@@ -1,6 +1,7 @@
 ## Table of Content
 * [General](#general) 
-* [NLP](#nlp)
+* [NLP, RNN, CNN, deeplearning](#nlp)
+* [Stan](#stan)
 
 ----
 
@@ -24,3 +25,5 @@ https://github.com/adventuresinML/adventures-in-ml-code
 - RNN and LSTM in Tensorflow([tutorial](http://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/), [Github](https://github.com/adventuresinML/adventures-in-ml-code))
 
 - RNN tutorial part 1 from [wildml](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/): 
+
+### Stan<a name="stan"><a>
