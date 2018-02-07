@@ -30,3 +30,10 @@ https://github.com/adventuresinML/adventures-in-ml-code
 ### Stan<a name="stan"><a>
 - [Stan website](http://mc-stan.org/): contains documentation and use cases.
 - Michael Betancourt's [Github](https://betanalpha.github.io/resources/): instructor from the Stan group, Harvard workshop instructor
+
+----
+### Time series
+[reference 1](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
+
+
+
