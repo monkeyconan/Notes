@@ -16,6 +16,9 @@ http://www.wildml.com/
 #### adventures ML
 https://github.com/adventuresinML/adventures-in-ml-code
 
+#### 
+[Comprehensive Repository of Data Science and ML Resources](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
+
 ----
 ## NLP, RNN, deeplearning<a name="nlp"><a>
 
