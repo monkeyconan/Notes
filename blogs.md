@@ -16,8 +16,10 @@ http://www.wildml.com/
 #### adventures ML
 https://github.com/adventuresinML/adventures-in-ml-code
 
-#### 
+#### Mis
 [Comprehensive Repository of Data Science and ML Resources](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
+
+[Cheat sheet](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 
 ----
 ## NLP, RNN, deeplearning<a name="nlp"><a>
