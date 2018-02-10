@@ -21,6 +21,9 @@ https://github.com/adventuresinML/adventures-in-ml-code
 
 [Cheat sheet](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6): algorithms, python, numpy, ...
 
+#### Data source
+[538](https://data.fivethirtyeight.com/)
+
 ----
 ## NLP, RNN, deeplearning<a name="nlp"><a>
 
