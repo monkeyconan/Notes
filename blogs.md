@@ -16,13 +16,16 @@ http://www.wildml.com/
 #### adventures ML
 https://github.com/adventuresinML/adventures-in-ml-code
 
+#### Data source
+[538](https://data.fivethirtyeight.com/)
+
 #### Mis
 [Comprehensive Repository of Data Science and ML Resources](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
 
 [Cheat sheet](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6): algorithms, python, numpy, ...
 
-#### Data source
-[538](https://data.fivethirtyeight.com/)
+[AI roadmap](http://nirvacana.com/thoughts/2017/12/27/demystifying-artificial-intelligence/#AI)
+
 
 ----
 ## NLP, RNN, deeplearning<a name="nlp"><a>
