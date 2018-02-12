@@ -31,7 +31,8 @@ https://github.com/adventuresinML/adventures-in-ml-code
 ## NLP, RNN, deeplearning<a name="nlp"><a>
 
 - [Learning Reinforcement Learning (with Code, Exercises and Solutions)](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
-- [Speech and Language Processing: book](https://web.stanford.edu/~jurafsky/slp3/)
+- [Speech and Language Processing: book](https://web.stanford.edu/~jurafsky/slp3/)      
+- [Nerual network and deep learning book](http://neuralnetworksanddeeplearning.com/chap2.html)
 
 ### RNN, LSTM
 - RNN and LSTM in Tensorflow([tutorial](http://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/), [Github](https://github.com/adventuresinML/adventures-in-ml-code))
