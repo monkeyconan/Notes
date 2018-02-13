@@ -35,7 +35,7 @@ https://github.com/adventuresinML/adventures-in-ml-code
 - [Nerual network and deep learning book](http://neuralnetworksanddeeplearning.com/chap2.html)
 
 ### RNN, LSTM
-- RNN, LSTM, Tensorflow from (advantureML)[(http://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/), [Github](https://github.com/adventuresinML/adventures-in-ml-code)) 
+- RNN, LSTM, Tensorflow from [advantureML](http://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/), [Github](https://github.com/adventuresinML/adventures-in-ml-code)) 
 
 - RNN, Tensorflow from [wildml](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 
