@@ -33,6 +33,7 @@ After activation function the init values are still around 0.
   * max-pooling
   * flatten
   * convolutional
+  * embedding
   
   
 ## Word Embedding
