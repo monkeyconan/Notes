@@ -19,6 +19,9 @@ https://github.com/adventuresinML/adventures-in-ml-code
 #### Data source
 [538](https://data.fivethirtyeight.com/)
 
+#### Another with more math
+https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1.html
+
 #### Mis
 [Comprehensive Repository of Data Science and ML Resources](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
 
