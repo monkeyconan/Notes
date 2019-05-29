@@ -55,5 +55,10 @@ https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1
 ### Biomarker
 [reference 1](z/BiocWorkshops/index.html#the-workshops) Bioconductor Workshop
 
-
+----
+### Imaging
+#### Camelyon 16 
+- [repo0](https://github.com/monkeyconan/camelyon16-1/blob/master/CAMELYON16.ipynb)Use Keras in Jupyter notebook with details notes
+- [repo1](https://github.com/monkeyconan/camelyon16-grand-challenge)Use Tenserflow with very detailed notes 
+- [repo2](https://github.com/monkeyconan/CAMELYON16)Use Pytorch
 
