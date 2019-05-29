@@ -58,7 +58,8 @@ https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1
 ----
 ### Imaging
 #### Camelyon 16 
-- [repo0](https://github.com/monkeyconan/camelyon16-1/blob/master/CAMELYON16.ipynb)Use Keras in Jupyter notebook with details notes
-- [repo1](https://github.com/monkeyconan/camelyon16-grand-challenge)Use Tenserflow with very detailed notes 
-- [repo2](https://github.com/monkeyconan/CAMELYON16)Use Pytorch
+- [repo1](https://github.com/monkeyconan/camelyon16-1/blob/master/CAMELYON16.ipynb) Use Keras in Jupyter notebook with details notes
+- [repo2](https://github.com/monkeyconan/DeepLearningCamelyon/tree/master/3%20-%20Training%20Neural%20Network) Use Keras with very detailed info
+- [repo3](https://github.com/monkeyconan/camelyon16-grand-challenge) Use Tenserflow with very detailed notes 
+- [repo4](https://github.com/monkeyconan/CAMELYON16) Use Pytorch
 
