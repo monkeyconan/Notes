@@ -29,3 +29,5 @@
 
 [Other refernece, eg.`:mod:`](https://developer.lsst.io/v/DM-5063/docs/rst_styleguide.html)
 
+https://wwoods.github.io/2016/06/09/easy-sphinx-documentation-without-the-boilerplate/
+
