@@ -13,6 +13,7 @@
   * (Optional) Add addition comments in *index.rst*
   * Produce html documentation, run `make html`
   * Produce pdf documentation, run `sphinx-build -b rinoh source _build/rinoh`
+  * numpdoc: https://numpydoc.readthedocs.io/en/latest/
 
 
 
